@@ -26,6 +26,7 @@
 		BFE940E31E08F2A70028DC29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFE940E61E08F2A70028DC29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFE940E81E08F2A80028DC29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFE940EE1E0907170028DC29 /* wildCardAdHoc.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; name = wildCardAdHoc.mobileprovision; path = ../wildCardAdHoc.mobileprovision; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		BFE940D71E08F2A70028DC29 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BFE940EE1E0907170028DC29 /* wildCardAdHoc.mobileprovision */,
 				BFE940D81E08F2A70028DC29 /* main.m */,
 			);
 			name = "Supporting Files";
