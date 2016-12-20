@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					BFE940D31E08F2A70028DC29 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = CEE8S45P4W;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -270,8 +271,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = CEE8S45P4W;
 				INFOPLIST_FILE = CiDemoProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = douyu.Fengbo.com.CiDemoProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -282,8 +284,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = CEE8S45P4W;
 				INFOPLIST_FILE = CiDemoProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = douyu.Fengbo.com.CiDemoProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -309,6 +312,7 @@
 				BFE940ED1E08F2A80028DC29 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
